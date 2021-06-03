@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The impeachment by the House of Commons against the Lord Major of the City of London and divers other aldermen, common-councell men, citizens, ministers, apprentices, and others and an order for chusing a new lord mayor, and the manner of the tryall, also the sentence denounced against John Poyntz, alias Morris, Isabel Smith, Leonard Derby and John Harris.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09267</idno><idno type="EEBO-CITATION">62369322</idno>
+  <idno type="VID">187952</idno>
+  <idno type="EEBO-PROQUEST">2240863993</idno>
+  
+            <idno type="STC">Wing I95</idno>
+            <idno type="STC">ESTC R222784</idno>
+            <idno type="OCLC">62369322</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187952)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2850:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The impeachment by the House of Commons against the Lord Major of the City of London and divers other aldermen, common-councell men, citizens, ministers, apprentices, and others and an order for chusing a new lord mayor, and the manner of the tryall, also the sentence denounced against John Poyntz, alias Morris, Isabel Smith, Leonard Derby and John Harris.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson and are to be sold at his House in Smithfield,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "Jo. Brown Cler. Parliamentorum."</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gayer, John, --  Sir, d. 1649 --  Trials, litigation, etc.</term>
+               <term type="topical_term">Impeachments --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187952:1"/>
+            <pb facs="tcp:187952:1"/>
+            <p>THE IMPEACHMENT by the HOUSE of COMMONS Against The Lord Major of the City of <hi>London</hi> AND Divers other Aldermen, Common-Councell men, Citizens, Ministers, Ap<g ref="char:EOLhyphen"/>prentices, and others.</p>
+            <p>
+               <hi>And an Order for chusing a new Lord Major, And the manner of the Tryall.</hi>
+            </p>
+            <p>ALSO The Sentence denounced against <hi>John Poyntz</hi> alias <hi>Morris, Isabel Smith, Leonard Derby,</hi> and <hi>John Harris.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitson,</hi> and are to be sold at his house in Smithfield, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:187952:2"/>
+            <pb n="1" facs="tcp:187952:2"/>
+            <head>Die veneris Septem. <hi>24. 1647.</hi>
+            </head>
+            <p>
+               <hi>Resolved upon the Question,</hi>
+            </p>
+            <p>THat there appeare sufficient matter to accase Sir <hi>Jo. Geyer,</hi> Knight, Mayor of the City of <hi>London,</hi> of high Treason, and further Voted, that he be committed prisoner to the Tower of <hi>London,</hi> upon accusation of high Treason, for countenancing and abetting the force and tu<g ref="char:EOLhyphen"/>mult brought downe and used against the House of Com<g ref="char:EOLhyphen"/>mons, the <hi>26</hi> of <hi>July</hi> last, and this to be in order to his tri<g ref="char:EOLhyphen"/>all; the House upon debate also further Voted, the like charge of high Treason against <hi>Thomas Cullum</hi> Alder<g ref="char:EOLhyphen"/>man, and one of the Sheriffes of <hi>London, James Bunce,</hi> Alderman <hi>John Langham</hi> Alderman, and <hi>Thomas A<g ref="char:EOLhyphen"/>dams</hi> Alderman, Citizens of <hi>London,</hi> for countenancing and abetting the said force against the Houses, and that they be committed to the Tower of <hi>London.</hi> And the Committees appointed to examine the said force and tumult, were ap<g ref="char:EOLhyphen"/>pointed to prepare and bring impeachments against the said Lord Mayor and Aldermen as aforesaid, against munday morning next.</p>
+         </div>
+         <div type="document">
+            <head>
+               <hi>Die Sabbathi, Septem.</hi> 25. 1647, Resolved upon the Question,</head>
+            <p>First, <hi>That</hi> Col. Laurence Bromfield, Col. Edward Hooker, Cap. Jones, <hi>be impeached of high crimes and misdemeanors, and committed to the Serjeants custody, at<g ref="char:EOLhyphen"/>tending the house of Commons, and that a charge of Im<g ref="char:EOLhyphen"/>peachment be drawn up against them accordingly.</hi>
+            </p>
+            <pb n="2" facs="tcp:187952:3"/>
+            <p>Secondly, <hi>That</hi> Captain Musgrave, Thomas Carill, Bartholomew West, Rich. Rumney, Ralph Hooker, Joh. Melton <hi>Minister,</hi> James Studley, Richard Eortis, Mr. Will. Drake. — Brook, <hi>Apprentice to</hi> Mr. Baker <hi>of Hellens,</hi> John Harley, Daniel Hill, Edmund Peisley, <hi>Citizens of</hi> London, <hi>be indicted of high treason at the Kings bench barre; and committed to the Serjeants custody untill their triall this next Terme, at the Court of Kings bench aforesaid.</hi>
+            </p>
+         </div>
+         <div type="document">
+            <head>Die Lunae Septemb. <hi>27. 1647.</hi>
+            </head>
+            <p>The Commons sent a Message to the Lords with an Impeachment against Sir <hi>John Geyer,</hi> Lord Mayor of the City of <hi>London,</hi> of high Treason in the name of all the Commons of <hi>England,</hi> for levying War against the King, Parliament, and Kingdome, and to desire their Lordships to appoint a day, and they would make good the Charge of High Treason against him. And that the City be sent to, to chuse a Lord Mayor to exe<g ref="char:EOLhyphen"/>cute the place during his time.</p>
+         </div>
+         <div type="document">
+            <head>
+               <hi>The Sentence denounced against</hi> John Morris, Isabel Smith, Leonard Derby, <hi>&amp;</hi> John Harris.</head>
+            <p>WHereas <hi>John Browne</hi> Esquire Clerke of the Par<g ref="char:EOLhyphen"/>liament did the 25. of <hi>June</hi> 1647 exhibit a charg before the Lords in Parliament, against <hi>John Morris</hi> a<g ref="char:EOLhyphen"/>lias <hi>Poyntz, Mary</hi> his wife, <hi>Isabel Smyth, Leonard Derby,</hi> and <hi>John Harris</hi> for forging, framing and publishing a Copy of a pretended Act of Parliament aledged to have beene made <hi>Anno</hi> 43. <hi>Elizabeth.</hi> And intitled, <hi>An Act to enable and make good a conveiance and assurance made of the
+<pb n="3" facs="tcp:187952:3"/>Mannors of chopping</hi> Ouger, Northokenden, Southoken<g ref="char:EOLhyphen"/>den, <hi>and other Lands in the County of</hi> Essex, and <hi>Bevies Markes</hi> alias <hi>Buries Markes</hi> in <hi>London</hi> by <hi>James Morris</hi> Esq; and <hi>Gabriel Po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntz</hi> Esq; to <hi>John, Poyntz</hi> alias <hi>Morris</hi> and his Heires, and to establish the said<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mannors upon the said <hi>John Poyntz</hi> alias <hi>Morris</hi> and his Heires, accor<g ref="char:EOLhyphen"/>ding to the said conveiance, wheras in truth there neither is, nor ever was any such Act of Parliament, And for forging and counterfieting his hand writing, and sub<g ref="char:EOLhyphen"/>scribing the said Copy. <hi>John Browne Cler. Par.</hi>
+            </p>
+            <p>And the better to colour their late practises have charged the said <hi>John Browne</hi> with the losse of the said Record, and denying of his owne hand. And whereas Sir <hi>Adam Littleton</hi> Barro. who had good title to part of the said Mannors &amp; Lands as in the right of Dame. <hi>Awdery</hi> his wife, whose inheritance thereunto was sought to be impeached by the coppy, of the said pretended Act of Parliament, complained likewise against the said per<g ref="char:EOLhyphen"/>sons before their Lordships for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said forgery and publication in that the said <hi>John Morris, Edward Derby Iohn Harris,</hi> and <hi>Isabel Smyth</hi> did procure the said copy at <hi>Chesmstow</hi> at Lent Assizes 1646. for the County of <hi>Essex,</hi> at a tryall in an <hi>Ejectione forme,</hi> brought by <hi>Tho<g ref="char:EOLhyphen"/>mas Smyth</hi> Husband to the said <hi>Isabel,</hi> and Lessee of the said <hi>John Morris</hi> against <hi>Josias Clerke</hi> Tennant to the said Sir <hi>Adam Littleton</hi> of part of the said Lands contained in the said pretended Act, And did pleade and affirme the same to bee a true copy of an Act of Parlia<g ref="char:EOLhyphen"/>ment; And the said <hi>Derby</hi> and <hi>Harris</hi> did falsly and pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>juriously swear in open Court, at the said tryall, that they had examined the said copy by them, produced
+<pb n="4" facs="tcp:187952:4"/>with the Record of the said pretended Act in the Office of the Clerke of the Parliament, and that hee did ac<g ref="char:EOLhyphen"/>knowledge the said writing to be his own hand, where<g ref="char:EOLhyphen"/>as in truth the said subscription, to the said pretended Act of Parliament is counterfeit and none of the said Clerke of the Parliaments hand. And the said Sir <hi>Adam</hi> further complained of an exemplification under the great Seal of <hi>England</hi> for countenancing the said forged Coppy of the said pretended Act, by some undue means by the said parties thereunto affixed, of the parties shewing whereof, proofe was made before their Lord<g ref="char:EOLhyphen"/>ships.</p>
+            <p>All which being crimes of a very high and transcen<g ref="char:EOLhyphen"/>dent nature, and do concerne the publique justice of the Kingdome, and of this Honourable House, the supream<g ref="char:EOLhyphen"/>est judicatory of this Kingdome: That Acts of Parlia<g ref="char:EOLhyphen"/>ments, the highest Records in this Kndgdome should be framed invented, forged and given in evidence, and published as true Acts of Parliament. And the hand of the Clerke of the Parliament a sworne Officer forged, counterfited &amp; subscribed to the same, &amp; if such bold and audacious acts should not be severely punished, no man can bee safe in his life, person, or estate, they said <hi>Iohn Browne</hi> and Sir <hi>Adam Littleton</hi> desired that the persons aforesaid might forthwith answer the said Charges, and that their Lordships would inflict such exemplary pu<g ref="char:EOLhyphen"/>nishment upon the offenders as may deferre the like at<g ref="char:EOLhyphen"/>tempts and leud practise, in others, and give such setting reparations as their Lordships in their wisdome should thinke meete.</p>
+            <p>Whereupon the persons aforesaid, put in their answers to the premises and pleaded not guilty. And after the Case had beene divers days fully heard by councell on both sides and witnesses produced at this Barre, and the
+<pb n="5" facs="tcp:187952:4"/>whole matter afterwards throughly weighed, debated, and fully confided of by the House. The Lords in Par<g ref="char:EOLhyphen"/>liament assembled, being fully satisfied of the guilt of the said persons for the aforesaid high crimes charged a<g ref="char:EOLhyphen"/>gainst them: doe award and adjudge</p>
+            <p n="1">1. That the said <hi>John Morris</hi> shall pay to our Sove<g ref="char:EOLhyphen"/>raigne Lord the King the Summe of one thousand Pounds, <hi>Isabel Smith</hi> two hundred Pounds, <hi>Leonard Derby</hi> foure hundred Pounds, and <hi>John Harris</hi> foure hundred Pounds.</p>
+            <p n="2">2. That the said Parties shall pay to <hi>John Browne</hi> Esquire Clerke of the Parliament for his Damages five hundred Pounds.</p>
+            <p n="3">3. That all the said Parties shall before their inlarge<g ref="char:EOLhyphen"/>ment out of Prison be bound to the good Behaviour during their lives, before some one of his Majesties Justices of his Bench at <hi>Westminster,</hi> with good Sure<g ref="char:EOLhyphen"/>ties.</p>
+            <p n="4">4. That the said Copie of the pretended Act of Parliament falsely affirmed upon Oath to have been subscribed with the name of the said Clerke of the Parliament, intituled An Act to enable and make good a Conveyance and Assurance made of the Mannours of <hi>Chepping ouger, North Kenden, South Kenden,</hi> and other Lands in the County of <hi>Essex,</hi> and <hi>Bevis Markes,</hi> al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>às <hi>Buries Markes</hi> in <hi>London</hi> by <hi>James Morris</hi> and <hi>Gabriel Pointz</hi> Esquire to <hi>John Pointz</hi> aliàs <hi>Morris</hi> and his heires, and to establish the said Mannours upon the said <hi>John Pointz</hi> aliàs <hi>Morris</hi> his heires, according to the said Conveyance, is hereby declared to be forged and counterfeit, and is by their Lord<seg rend="sup">ps.</seg> adjudged &amp; decreed to be for ever damned and cancelled, and never to be pleaded in any Court or Cause whatsoever, nor to be admitted in Evidence, there being no Record of any
+<pb n="6" facs="tcp:187952:5"/>such pretended Act of Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, to warrant the same.</p>
+            <p n="5">5. That all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he said s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l persons hereby adjudged guilty of the said crimes, shall ever hereafter be made uncapable to be wi nesses in any cause whatsoever.</p>
+            <p n="6">6 That <hi>John Brown</hi> Esquire, Clerk of the Parlia<g ref="char:EOLhyphen"/>ment, is in the ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gement of this House free and cleer of, and from all and every the aspersi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, falsities, and charges of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> said <hi>John Morris, Isabel Smith, Leonard Derby,</hi> and <hi>John Harris</hi> charged, uttered, divulged, and given out by them against him. Concerning the mat<g ref="char:EOLhyphen"/>ters herein mentioned, and that this Judgement shall be openly read and published in the face of the County of <hi>Essex,</hi> at the next Assizes to be held for that County.</p>
+            <p n="7">7 That the said parties shall bring, or cause to bee brought into this House by the fifth day of <hi>October</hi> next one exemplification under the great Seale of <hi>England,</hi> concerning the Mannor of <hi>Little Munden,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Hartford,</hi> and the aforesaid Exemplification of the said counterfeit Act of Parliament, to which the great Seale of <hi>England</hi> is charged to have been unduly and fraudulently affixed, that so the aforesaid forged ex<g ref="char:EOLhyphen"/>emplification may be cancelled and vacated.</p>
+            <p n="8">8 That they shall be imprisoned during the pleasure of this House.</p>
+            <closer>
+               <signed>Jo. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
